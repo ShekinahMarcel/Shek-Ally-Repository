@@ -57,3 +57,6 @@ JapanEase is a travel guide website designed to help visitors explore Japan with
 - Would include a photo of the author and why we collectively agreed upon the chosen topic.
 
 ### Wireframes 
+Home page
+<img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/d782d4b1-3561-4e29-9cd8-89a9bbcfaa34" />
+
