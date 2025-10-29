@@ -6,7 +6,7 @@
 <img width="400" height="502" alt="image" src="https://github.com/user-attachments/assets/2eabff5c-a6b0-470d-af16-2f2a19f5196f" />
 
 
-(Personalized)
+Customized Logo
 
 ### Website Description  
 JapanEase is a travel guide website designed to help visitors explore Japan with ease. It provides travelers with essential travel tips, itineraries, destination highlights, food recommendations, and more. Whether planning for an upcoming trip or revisiting the mesmerizing streets of Japan, this guide ensures a memorable journey across the Land of the Rising Sun.  
