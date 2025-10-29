@@ -61,3 +61,24 @@ Home Page
 
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/d782d4b1-3561-4e29-9cd8-89a9bbcfaa34" />
 
+Itinerary Page 
+
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/6175e4a8-4593-4ad9-81ee-e7c1a6573612" />
+
+Food Guide
+
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/dc7e5d8a-715f-4f2f-9ccb-ad6a46b41ed9" />
+
+Travel Tips
+
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/a7d0bd76-8173-42c4-8774-f8b5f37b5579" />
+
+Souvenirs 
+
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/8c462423-6ea6-4a9e-b60a-25d8b295eb8f" />
+
+About Us
+
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/66b3cfd1-2e4f-4d40-9147-c65ba38d544f" />
+
+
