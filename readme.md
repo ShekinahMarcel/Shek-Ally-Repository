@@ -64,8 +64,8 @@ JavaScript will be incorporated into the website to make it more interactive and
 When users click the heart icon beside a city or tourist spot, JavaScript will record and visually update the icon (e.g., changing color to red) to indicate that it has been added to their favorites. 
 
 Additionally, JavaScript may also be used for:
-Smooth transitions or animations within the photo gallery,
-Responsive navigation effects (nav area and various effects with buttons)
+- Smooth transitions or animations within the photo gallery,
+- Responsive navigation effects (nav area and various effects with buttons)
 
 Through JavaScript, A Complete Traveler’s Guide to Japan will offer a more interactive and user-friendly browsing experience that allows visitors to personalize their exploration of Japan’s destinations.
 
