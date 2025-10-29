@@ -3,7 +3,9 @@
 
 ---
 ## Website Logo:
-<img width="800" height="631" alt="image" src="https://github.com/user-attachments/assets/860c78e6-fe66-4167-87cd-2c98294ff791" />
+<img width="400" height="502" alt="image" src="https://github.com/user-attachments/assets/2eabff5c-a6b0-470d-af16-2f2a19f5196f" />
+
+
 (Personalized)
 
 ### Website Description  
