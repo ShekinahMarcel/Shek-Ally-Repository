@@ -1,117 +1,52 @@
-# **JapanEase**  
-### *A Beginner's Guide For Travelling To Japan!*
-
-
----
-
-
-## **About JapanEase**
-**JapanEase** is your go-to travel companion for exploring Japan with confidence and curiosity.  
-From vibrant cityscapes to tranquil temples, we provide essential travel tips, curated itineraries, food recommendations, and insider insights to help you experience Japan — the Land of the Rising Sun — with ease.
-
+# JapanEase  
+## A Beginner's Guide to Japan  
 
 ---
 
-
-## **Homepage**
-- **Overview:** Discover why Japan remains one of the world’s most beloved travel destinations — where tradition meets innovation.  
-- **Welcome Message:**  
-  *Konnichiwa, Traveler!*  
-  Welcome to JapanEase — your gateway to unforgettable journeys across Japan. Whether you’re planning your first trip or reliving old memories, we’re here to make every moment count.  
-- **Interactive Feature:**  
-  *Like/Favorite your favorite cities!*  
-  Mark the destinations you’ve explored or wish to visit soon.
-
+### Website Description  
+JapanEase is a travel guide website designed to help visitors explore Japan with ease. It provides travelers with essential travel tips, itineraries, destination highlights, food recommendations, and more. Whether planning for an upcoming trip or revisiting the mesmerizing streets of Japan, this guide ensures a memorable journey across the Land of the Rising Sun.  
 
 ---
 
+## Webpage Outline  
 
-## **Itinerary**
-### Major Destinations:
-- **Tokyo:** Neon streets, tech hubs, and endless entertainment.  
-- **Kyoto:** Ancient temples, geisha culture, and timeless beauty.  
-- **Osaka:** Street food paradise and home to universal fun.  
-- **Hokkaido:** Winter wonderlands and soothing hot springs.  
-
-
-### Activities:
-- Temple visits and cultural walks  
-- Shopping in modern districts  
-- Skiing, onsen baths, and scenic hikes  
-
-
-### Travel Tips:
-- **Best Time to Visit:** Spring (cherry blossoms) & Autumn (fall colors)  
-- **Cultural Highlights:** Local festivals, tea ceremonies, traditional crafts
-
+### Homepage  
+- Overview of Japan and why it is one of the most visited countries in the world.  
+- A short welcome paragraph addressed to the traveler or user.  
+- A space where users can like/heart/favorite a specific city they will be visiting or they have visited in the past.  
 
 ---
 
-
-## **Food Guide**
-### Must-Try Dishes:
-- Sushi, Ramen, Takoyaki, Tempura, Okonomiyaki, Matcha Desserts  
-
-
-### Dining Etiquette:
-- Bow before meals, say *“Itadakimasu”* before eating and *“Gochisousama”* after.  
-- Avoid sticking chopsticks upright in rice.  
-
-
-### Restaurant Recommendations:
-- **Tokyo:** Sukiyabashi Jiro (Sushi)  
-- **Osaka:** Dotonbori Street Stalls  
-- **Kyoto:** Nishiki Market  
-
+### Itinerary  
+- List of major spots or must-visit areas (e.g., Tokyo, Kyoto, Osaka, Hokkaido).  
+- Activities to do in each area (e.g., temple visits, shopping, skiing, onsen baths).  
+- Recommendations on the best time or day to visit each location.  
+- Description of each destination’s unique features and cultural highlights.  
 
 ---
 
-
-## **Travel Tips**
-### Essentials:
-- **Dos and Don’ts:** Respect local customs, keep noise levels low in public transport, remove shoes indoors.  
-- **Transportation:** JR Pass, subways, bullet trains (*Shinkansen*), taxis, and rental bikes.  
-- **Budgeting & Safety:** Use cash or Suica card; Japan is very safe, but stay alert in crowded areas.  
-- **Useful Phrases:**  
-  - Hello – *Konnichiwa*  
-  - Thank you – *Arigatou gozaimasu*  
-  - Excuse me – *Sumimasen*  
-  - Where is the station? – *Eki wa doko desu ka?*
-
+### Food Guide  
+- List of must-try Japanese dishes (e.g., sushi, ramen, takoyaki, tempura).  
+- Overview of Japanese dining etiquette to observe when eating in restaurants.  
+- Recommendations of famous restaurants and street food stalls across Japan.  
 
 ---
 
-
-## **Souvenirs**
-### Must-Buy Items:
-- Unique KitKat flavors, stationery, skincare, anime merchandise, tea sets  
-
-
-### Where to Shop:
-- **Don Quijote**, **Daiso**, **local markets**, and **Tokyo’s Akihabara**  
-
-
-### Pasalubong Ideas:
-- Regional snacks, handcrafted ceramics, yukata, and keychains  
-
+### Travel  
+- Essential reminders and dos and don’ts when visiting Japan.  
+- Overview of transportation options (JR Pass, subway systems, taxis, etc.).  
+- Budgeting and safety tips for travelers.  
+- Basic and useful Japanese phrases for daily conversations.  
 
 ---
 
-
-## **About Us**
-Meet the creators behind **JapanEase** — a team of passionate travelers and culture enthusiasts who share a deep fascination for Japan’s harmony of past and future.  
-
-
-**Our Story:**  
-We chose *JapanEase* to help fellow travelers experience Japan without confusion or culture shock — just pure wonder.  
-
-
-📸 *[Author’s Photo Placeholder]*  
-**Why Japan?**  
-Because every corner of Japan tells a story worth exploring.
-
+### Souvenirs  
+- List of must-buy items found only in Japan (e.g., KitKats, stationery, skincare).  
+- Recommended stores to visit, such as Don Quijote and local markets.  
+- Suggestions for best pasalubongs to bring home for friends and family.  
 
 ---
 
-
-> *“The journey of a thousand miles begins with a single step — or in this case, a single click on JapanEase.”*
+### About Us  
+- A short compilation of the authors' informations.  
+- Would include a photo of the author and why we collectively agreed upon the chosen topic.  
