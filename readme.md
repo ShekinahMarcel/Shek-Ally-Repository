@@ -95,3 +95,10 @@ Souvenirs
 About Us
 
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/66b3cfd1-2e4f-4d40-9147-c65ba38d544f" />
+
+
+--- 
+
+Started Website for Bonus: 
+
+https://github.com/ShekinahMarcel/WDProjRubidiumEspinozaPuguon/blob/main/MockupOfJapanEaseHomePage.html
